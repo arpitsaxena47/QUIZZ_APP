@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QUIZZ APP</string>
+    <string name="q1"> A honeyBee can fly at 15mph.</string>
+    <string name="q2">A jellyfish is approx. 95 % water.</string>
+    <string name="q3">Elephants are the Only mammals that can\'t jump</string>
+    <string name="q4">Cats can hear ultraSound.</string>
+    <string name="q5">A human brain weights 3 pounds.</string>
+    <string name="q6">The tongue is the fastest healing part of  the body</string>
+    <string name="q7">Americans ,on average , eat 18 acres of pizza a day</string>
+    <string name="q8">A kangaroo can jump 30 feet</string>
+    <string name="q9">A pigeons feathers are heavier than its bone.</string>
+    <string name="q10">The tallest man was 8ft 11 inch.</string>
+
+</resources>
